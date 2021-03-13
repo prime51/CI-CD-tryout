@@ -11,6 +11,10 @@ app.get('/', function (req, res) {
 
 });
 
+app.get('/about', (req, res) => {
+  res.send('This is an application for Heroku building');
+})
+
 app.listen(port, function () {
 		  console.log('Example app listening on port ' + port);
 });
