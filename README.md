@@ -1,4 +1,4 @@
-Continuous Integration [![CircleCI](https://circleci.com/gh/cmusv-fse/CI-CD.svg?style=svg&circle-token=27180ae211de7ce54b89ed89cb1736a7df12aa66)](https://circleci.com/gh/cmusv-fse/CI-CD)
+Continuous Integration [![CircleCI](https://circleci.com/gh/prime51/CI-CD.svg?style=svg&circle-token=27180ae211de7ce54b89ed89cb1736a7df12aa66)](https://circleci.com/gh/prime51/CI-CD)
 ==============
 Continuous Integration and Deployment Recitation
 
